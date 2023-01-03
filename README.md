@@ -1,6 +1,32 @@
 # Minnesota-Bee-Atlas
 Raw data and code associated with "Determining Minnesota Bee Species’ Distributions and Phenologies with the Help of Participatory Science"
 
+Files inlcuded
+1. Trap nest data
+-TrapNest2016.xls to TrapNest2019.xls  
+Specimens collected from trap nests from 2016 through 2019
+
+2. Bumble bee data
+-BumbleBeelocationdataformaps.xlsx
+Location data MN Bee Atlas records are total abundances per species per route per year, averaged if route was run for more than one year.  iNaturalist includes research-grade bumble bee observations through November of 2022, Bumble Bee Watch includes expert-verified records through November of 2022 , and Bumble Bees of North America includes specimen-based Minnesota records from the Bumble Bees of North America database.
+
+-atlasspmatrixyear.csv
+Abundances for bumble bee species per route per year
+
+-qtyperyearrouteeco.csv
+Total bumble bee abundance per route per year by Ecological Province
+
+-routelanduse.csv
+Land use surrounding bumble bee survey routes
+
+5. Bumble bee analysis code
+-BeeAtlasBumbleBeeAbundance.R
+Analysis of bumble bee abundance
+
+-MNBeeAtlasCCA.R
+Canonical correspondence analysis for association of bumble bee species and land use
+
+
 
 The Minnesota Bee Atlas project contributed new information about bee distributions, phenologies, and community structure by mobilizing volunteers to document bees statewide. Volunteers submitted iNaturalist photograph observations, monitored trap nests for tunnel-nesting bees, and conducted roadside observational bumble bee surveys. By pairing research scientists and participatory science volunteers, we overcame many geographic and temporal challenges to document the presence, phenologies, and abundances of species. By engaging over 2500 volunteers, we also promoted conservation action for pollinators through our educational programs and interactions.
 
