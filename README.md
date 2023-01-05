@@ -4,11 +4,14 @@ Raw data and code associated with "Determining Minnesota Bee Species’ Distribu
 **Files inlcuded**
 1. Trap nest data <br>
 "TrapNest2016.xls" to "TrapNest2019.xls" <br>
-Specimens collected from trap nests from 2016 through 2019
+Specimens collected from trap nests from 2016 through 2019<br>
+
+"Cavity Nesting Bee Distribution Data.xlsx"<br>
+Location data MN Bee Atlas trap nests, iNaturalist includes research-grade bumble bee observations through March of 2021, and bee specimens from a 2019 version of the UMN Insect Collection database.
 
 2. Bumble bee data<br>
 "BumbleBeelocationdataformaps.xlsx" <br>
-Location data MN Bee Atlas records are total abundances per species per route per year, averaged if route was run for more than one year.  iNaturalist includes research-grade bumble bee observations through November of 2022, Bumble Bee Watch includes expert-verified records through November of 2022 , and Bumble Bees of North America includes specimen-based Minnesota records from the Bumble Bees of North America database.
+Location data MN Bee Atlas bumble bee onservation records are total abundances per species per route per year, averaged if route was run for more than one year.  iNaturalist includes research-grade bumble bee observations through November of 2022, Bumble Bee Watch includes expert-verified records through November of 2022 , and Bumble Bees of North America includes specimen-based Minnesota records from the Bumble Bees of North America database.
 
 "atlasspmatrixyear.csv" <br>
 Abundances for bumble bee species per route per year
