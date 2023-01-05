@@ -6,7 +6,7 @@ Raw data and code associated with "Determining Minnesota Bee Species’ Distribu
 "TrapNest2016.xls" to "TrapNest2019.xls" <br>
 Specimens collected from trap nests from 2016 through 2019<br>
 
-"Cavity Nesting Bee Distribution Data.xlsx"<br>
+"Trap Nest Bee Distribution Data.xlsx"<br>
 Location data MN Bee Atlas trap nests, iNaturalist includes research-grade bumble bee observations through March of 2021, and bee specimens from a 2019 version of the UMN Insect Collection database.
 
 2. Bumble bee data<br>
