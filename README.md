@@ -16,11 +16,14 @@ Location data MN Bee Atlas bumble bee onservation records are total abundances p
 
 3. Tunnel-nesting bee analyses code<br>
 Nest fequency overall and for a subset of tunnel-nesting species
-
+"MNBeeAtlas
+"Pnestspub.csv"
+"ecosp.csv"
 
 Land use surrounding tunnel-nesting blocks
 Redundance analysis for association of tunnel nesting bee species and  land cover
-
+"RDAnestingblocks.R"
+"LU250nestsNoZeroNestSpgr10.csv"
 
 4. Bumble bee analyses code<br>
 Total bumble bee abundance per route per year by Ecological Province
