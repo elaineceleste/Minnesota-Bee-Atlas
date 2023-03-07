@@ -1,0 +1,400 @@
+dummy,totalabund,sprich,Location,Block.number,Biome,Hyl_ann,Hyl_lep,Hyl_mes,Her_car,Meg_cam,Meg_in,Meg_lap,Meg_men,Meg_ini,Meg_fru,Meg_cen,Meg_bre,Osm_alb,Osm_geo,Meg_rot,Meg_rel,Meg_pug,Iso_mex,Anc_ant,Anc_spin,Euo_for,Sym_can,Sym_cri
+1,4,2,Larpenteur/Hamline,1,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,0
+2,5,2,CarverPR-LowryNC,3,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+3,10,2,HylandLakePR-RNC,4,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,4,0
+4,1,1,GaleWoodsFarm,5,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5,3,2,CarverPR,6,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0
+6,1,1,BakerPR,7,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+7,1,1,BakerPR,8,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+8,0,0,ElmCreekPR,9,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9,1,1,ElmCreekPR,10,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10,3,3,NoerenbergGar,11,Eastern Broadleaf Forest,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+11,0,0,CarverPR,12,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,0,0,LandingMNRiverHer.,13,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,4,1,Crow-HassanPR,14,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+14,1,1,LakeRebeccaPR,15,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+15,1,1,ElmCreekPR-ENC,16,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+16,2,2,Murphy-HanrehanPR,17,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+17,3,1,CoonRapidsDamRP,18,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+18,0,0,SilverwoodP,19,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+19,3,2,Crow-HassanPR,20,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+20,2,1,LakeRebeccaPR,21,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21,0,0,Murphy-HanrehanPR,22,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22,7,2,CedarCreekESR-swale,25,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+23,0,0,CedarCreekESR-pine,26,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+24,4,4,TamarackNC,27,Eastern Broadleaf Forest,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+28,15,3,SavageCmP-McCollPdELC,31,Eastern Broadleaf Forest,0,0,0,6,4,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+29,21,5,SofMankato,32,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,4,0,3,9,0,0,1,0,0
+30,0,0,WestwoodHillsNC,33,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+31,1,1,SherburneSWCD,34,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+32,5,2,LeSeurRiver-Schindle,35,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+33,1,1,OakdaleNPrsv.,36,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34,0,0,StJohn'sUArb.,37,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+37,5,2,EagleBluffELC,40,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+38,3,1,MSchmidtCrawfordWdsSNA,41,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+39,0,0,FairbaultRiverBendNC,42,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41,3,3,QuarryHillParkNC,44,Eastern Broadleaf Forest,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+42,1,1,WarnerNC,45,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+43,14,5,PrairieMoonNursery,46,Eastern Broadleaf Forest,0,1,0,6,3,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0
+46,3,1,AndersonCP,49,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+47,12,3,BeklinHomesteadCP,50,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,7,0,0,0
+49,1,1,LakeBrophyCP,52,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+50,0,0,EastBethel,53,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51,3,1,CarlosAveryWMA-Zodiac,54,Eastern Broadleaf Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54,0,0,McKnightPrairie,57,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+60,2,1,ZumbroFallsWoodsSNA,65,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+61,3,3,HastingsSandCouleeSNA,66,Eastern Broadleaf Forest,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+64,2,1,LakeNokomisP,70,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+65,0,0,ChimneyRockSNA,72,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70,0,0,HelenAllisonSNA,77,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71,0,0,WoodRillSNA,78,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72,3,1,W.St.Paul-DodgeNC,79,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+74,2,1,GreyCloudDunesSNA,81,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+76,6,1,RiverTerracePrairieSNA,82,Eastern Broadleaf Forest,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78,1,1,ClearLakeSNA,84,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,3,1,StOlafColl.,88,Eastern Broadleaf Forest,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,1,1,StCroixSavannahSNA,89,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+85,3,1,ChamberlainWoodsSNA,90,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+86,0,0,WolsfeldWoodsSNA,91,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+88,0,0,RoscoePrairieSNA,92,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90,3,2,BlainePreserveSNA,94,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+91,3,2,QuarryParkSNA,95,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+93,0,0,UncasDunesSNA,97,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94,1,1,StOlafUPrRemStanton,99,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+96,0,0,SpruceHill-BigSpruceSWMA,103,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100,12,3,CarletonCollArb,108,Eastern Broadleaf Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,6,0,0,0,0,0
+101,0,0,SavageFenSNA,109,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+102,6,3,SpringCreekPrairieSNA,110,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0
+103,3,2,N.MississippiRP-49AveN,111,Eastern Broadleaf Forest,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+104,6,1,hwy47/GreenValleyRd,112,Eastern Broadleaf Forest,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+107,2,1,LebanonHillsRP,115,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+108,6,4,SpringLakePR,116,Eastern Broadleaf Forest,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+110,3,2,LebanonHillsRP,117,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+111,2,2,MiesvilleRavinePR,118,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+112,2,2,Cedarlake,119,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+113,12,1,MNValleyNWR-VC,120,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0
+114,0,0,BruceVentoNS,121,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+116,8,4,BelwinConsv.,124,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,1,0
+120,3,2,BruceVentoNS,135,Eastern Broadleaf Forest,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+121,0,0,CarverPRopenv2,136,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+122,2,1,CrepeauNPrsv.,137,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+125,3,1,"ParkersPrairie,LakeMary",203,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0
+128,2,1,SpringCreekPrairieSNA,206,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+129,3,2,EagleBluffELC,207,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0
+132,2,1,ChamberlainWoodsSNA,209,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+134,4,1,ClearLakeSNA,211,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+135,0,0,QuarryParkSNA,212,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+137,13,6,"Mankato,hwy8x178",214,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,6,2,0,1,1,0,0
+141,14,2,SavageCmP-McCollPdELC,219,Eastern Broadleaf Forest,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+142,0,0,CarlosAverySWMA,220,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+144,0,0,"HolmesCity,LakeRachel",222,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+146,0,0,"Ashby,LakeChristina",224,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,0,0,"EastBethel,Cedar",225,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+148,0,0,"ElkRiver,Hwy10x144St.NW",226,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+149,1,1,UncasDuneSNA-S,227,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+150,1,1,CherokeeRP,228,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+156,14,3,BecklinCP,235,Eastern Broadleaf Forest,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,3,0
+157,2,1,AndersonCP,236,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+159,1,1,MinnesotaValleyNWR,238,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+160,0,0,HardwoodCreekWMA,239,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+162,2,1,"Medina,MooneyLake",241,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+163,8,3,LakeNokomisP,242,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,3,0
+164,1,1,WestwoodHillsNC,243,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+166,0,0,"Dassel, 240St.x726Ave.",245,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+167,0,0,ArdenHillsIslandBeachClub,246,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,0,0,QuarryHillParkNC,247,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+170,0,0,PrairieMoonNursery,249,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,2,1,"PriorLake,JeffersPonds",250,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+175,7,1,"Isanti,orchard",254,Eastern Broadleaf Forest,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+177,2,1,CedarCreekCA,256,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+180,0,0,NoerenbergGar.,259,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,0,0,ElmCreekPR,260,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,0,0,HylandLakePR-RNC,261,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183,2,2,SilverwoodP,262,Eastern Broadleaf Forest,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+184,2,1,ElmCreekPR-ENC,263,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+185,1,1,LakeRebeccaPR,264,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+186,6,2,LandingMNRiverHer.,265,Eastern Broadleaf Forest,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+187,9,4,CarverPR,266,Eastern Broadleaf Forest,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+188,5,2,Crow-HassanPR,267,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+189,1,1,BakerPR,268,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+190,2,1,Crow-HassanPR,269,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,0,0,StCroixSavannaSNA,270,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,3,3,RoscoePrairieSNA,271,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+194,9,2,SavageFenSNA,272,Eastern Broadleaf Forest,0,0,0,5,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+195,13,3,GreyCloudDunesSNA,273,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,2,0
+198,1,1,CarverPR,275,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+199,2,1,FrenchRP,276,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+200,12,3,MurphyHanrehanPR,277,Eastern Broadleaf Forest,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+201,0,0,CoonRapidsDamRP,278,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+202,8,2,ElmCreekPR,279,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,3,0,0,0
+203,8,2,LakeRebeccaPR,280,Eastern Broadleaf Forest,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+204,1,1,MurphyHanrehanPR,281,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+205,14,4,CarverPR-LNC,282,Eastern Broadleaf Forest,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,5,6,0,0,0,0,0
+206,7,3,GaleWoodsFarm,283,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0
+207,0,0,BakerPR,284,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208,8,3,SandCouleeSNA,285,Eastern Broadleaf Forest,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+211,4,3,ChimneyRockSNA,288,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,2,0
+213,18,2,WestfieldTWSHP,290,Eastern Broadleaf Forest,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0
+216,7,2,CarletonCollMcNightP,293,Eastern Broadleaf Forest,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+217,15,3,CarletonCollArb,294,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,9,2,0,0,0,0,0
+221,2,1,CraneMeadowsNWR,298,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+222,1,1,MNZoo,299,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+224,0,0,SpruceHillParkRd,301,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,11,2,LebanonHillsRP,323,Eastern Broadleaf Forest,0,0,0,5,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,0,0,MiesvilleRavinePR,324,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+245,0,0,SpringLakePR,325,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,1,1,CedarCreekESR-dr,326,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+248,4,1,FrenchRP-2,331,Eastern Broadleaf Forest,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,0,0,BecklinCP,332,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+250,1,1,EagleBluffELC,334,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+254,0,0,NorthMankato,336,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+255,0,0,NorthMankato,336,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,24,6,N.MississippiRP,400,Eastern Broadleaf Forest,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,9,6,3,0,0,0,0,0
+258,6,2,"Mankato,hwy168xhwy8",402,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,3,0,0
+259,8,2,"BloomingPrairie,Hwy30xCedarRv",403,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,4,0,0
+260,2,1,BakerPR,404,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+261,2,1,LakeRebeccaPR,405,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+262,0,0,BakerPR,406,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+263,1,1,LakeRebeccaPR,407,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+264,1,1,HylandLakePR-RNC,408,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+265,6,3,LandingMNRiverHer.,409,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0
+266,7,1,GaleWoodsFarm,410,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0
+267,18,4,CarverPR-LNC,411,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,4,9,0,0,0,0,0
+268,1,1,ElmCreekPR-ENC,412,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+269,0,0,CoonRapidsDamRP,413,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+270,4,1,NoerenbergGar.,414,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+271,1,1,SilverwoodP,415,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+272,5,2,ElmCreekPR,416,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0
+273,1,1,ElmCreekPR,417,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,0,0,Crow-HassanPR,418,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+275,6,1,MurphyHanrehanPR,419,Eastern Broadleaf Forest,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+276,0,0,Crow-HassanPR,420,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+277,0,0,MurphyHanrehanPR,421,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+278,5,1,CarverPR,422,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+279,0,0,CarverPR,423,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,5,2,FrenchRP,424,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+282,0,0,LakeRachel,426,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+285,3,1,"ArdenHills,LkJohanna",429,Eastern Broadleaf Forest,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+286,5,2,"Dassel,LongLk",430,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+288,2,1,MinnesotaValleyNWR,432,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,18,3,TamarackNC,433,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,11,0,6,0,0,0,0,0,0
+290,4,2,"Ashby,Hwy82xT-105",434,Eastern Broadleaf Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+294,6,3,"Prosper,120xDeerRd",438,Eastern Broadleaf Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+295,6,3,PilotMoundTwshp,439,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,3,0,0,0
+296,10,3,"Houston,T-243",440,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,7,2,0,0
+299,9,4,"Maine,Hwy35x74",443,Eastern Broadleaf Forest,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,1,0,5,0,0,0,0
+300,2,1,"LakeFrancis,Kingston",444,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+301,4,2,"Minnetrista,Hwy26x110",445,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+303,0,0,"St.Paul,USt.Thomas",447,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+307,0,0,WestwoodHillsNC,451,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,13,3,"Buffalo,BoltonDr.x35",454,Eastern Broadleaf Forest,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+313,2,2,SavageFenSNA,457,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+314,2,2,CarltonArbTrail,458,Eastern Broadleaf Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+319,4,2,MiesvilleRavinePR,463,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0
+320,4,3,SpringLakeRP,464,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0
+321,4,2,Faribault,465,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+322,1,1,"ParkersPrairie,LakeMary",466,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+323,7,3,Dover,467,Eastern Broadleaf Forest,0,0,0,1,3,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+331,11,3,MiesvilleRavinePR,476,Eastern Broadleaf Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0
+332,7,3,MississippiGorgeRP,477,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0
+333,6,1,LakeNokomis,478,Eastern Broadleaf Forest,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+334,13,5,St.CroixIslandsSWA,479,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,2,8,0,1,0,0,0
+335,0,0,"St.Paul,ComoP",480,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+336,15,3,"Austin,JCHormelNC",481,Eastern Broadleaf Forest,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,0,0,0,0
+337,0,0,"Ottawa,MNRiver",482,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+340,3,2,NorthMankato,483,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+341,3,2,NorthMankato,483,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+342,1,1,MNZoo,484,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+344,1,1,"Mankato,586LnxLeSueurRv",486,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+357,4,2,CarlosAverySWMA,499,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0
+360,7,5,"Lewiston, HavenwoodRd",502,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,3,1,0
+372,3,2,LostValleySNA,514,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+373,0,0,"Eagan,TiffanyDr",515,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+374,3,2,UncasDuneSNA-S,516,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0
+375,2,1,SpringCreekPrairieSNA,517,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+379,2,1,CountryCrossingsP,521,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+385,1,1,QuarryParkSNA,527,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+386,3,2,ClearLakeSNA,528,Eastern Broadleaf Forest,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+387,11,5,WhitewaterSP,529,Eastern Broadleaf Forest,0,0,0,1,1,0,0,0,0,0,0,0,0,0,3,0,5,1,0,0,0,0,0
+389,9,2,SandCouleeSNA,531,Eastern Broadleaf Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+391,2,1,"Preston,StPaulStxFarmerSt",533,Eastern Broadleaf Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+393,2,1,CarletonCollMcNightP,535,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+394,4,2,"St.Paul,USt.Thomas",536,Eastern Broadleaf Forest,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+396,0,0,BakerPR,538,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26,2,1,MNNativeLandscapes,29,Laurentian Mixed Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+40,6,2,HappyDancingTurtle,43,Laurentian Mixed Forest,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+56,2,1,DeepPortageLC,60,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+57,6,1,Ely-hwy16east,61,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6
+63,0,0,TooLittleMuchLakeSNA,69,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,0,0,BoltuckRiceForeverWildSNA,73,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+67,0,0,LostLakePeatlandSNA,74,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69,1,1,BoulderLakeELC,76,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+73,1,1,RedLakePeatlandSNA,80,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+75,2,1,GreyCloudDunesSNA,81,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
+77,0,0,PurvisLake-OberSNA,83,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+80,6,2,ThreeIslandLakeCP,86,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,5,0
+81,0,0,MelvilleMazeRA,87,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+95,1,1,RognlienMemorialP,102,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+98,1,1,WolfRidgeELCFarm,106,Laurentian Mixed Forest,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+99,0,0,RoundRiverFarm,107,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+109,6,4,SpringLakePR,116,Laurentian Mixed Forest,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+115,5,2,RiceLakeSavannaSNA,123,Laurentian Mixed Forest,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+123,14,4,FondDuLacTribalComCol,200,Laurentian Mixed Forest,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,3,0
+126,0,0,WolfRidgeELC,204,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+127,0,0,LittleTooMuchLakeSNA,205,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+138,5,1,OrganicConsumersAssoc,215,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+143,7,4,MississippiHeadwatersNF-HH,221,Laurentian Mixed Forest,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0
+145,5,2,ThreeIslandLakeCP,223,Laurentian Mixed Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+154,2,1,MississippiHeadwatersNF-BD,233,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+155,0,0,"Bemidji,229Ave.xTreeBarkDr.",234,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,2,1,"Duluth,MacFarlaneRD",237,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+161,0,0,"Taft,Fredenberg",240,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,8,3,"Saginaw,CanosiaRdxGrandLakeRd",248,Laurentian Mixed Forest,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+174,5,2,BWCAFarmLake,253,Laurentian Mixed Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+179,4,1,HappyDancingTurtle,258,Laurentian Mixed Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+196,13,3,GreyCloudDunesSNA,273,Laurentian Mixed Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,2,0
+209,3,1,DeepPortageLC,286,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0
+210,0,0,LostLakePeatlandSNA,287,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+214,1,1,CollegeSt.Scholastica,291,Laurentian Mixed Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+215,1,1,CollegeSt.Scholastica,292,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+218,6,3,"Duluth,Glensheen",295,Laurentian Mixed Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1
+219,9,5,HartleyNC,296,Laurentian Mixed Forest,0,0,0,3,0,0,0,0,0,0,0,0,0,0,2,2,1,0,0,0,0,1,0
+220,0,0,"Pierz,265x235Ave",297,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+229,0,0,RumRiverSF,307,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+232,0,0,RoundRiverFarm,310,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+235,3,1,SuperiorNF-WakemupBay,313,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3
+240,0,0,"Perham,SrHighSch",319,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+246,0,0,SpringLakePR,325,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+257,1,1,Perham,401,Laurentian Mixed Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,2,1,"Taft,TaftRdx530",425,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+283,2,2,"KabetogamaSF,WakemupBay",427,Laurentian Mixed Forest,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+292,4,1,"Saginaw,CanosiaRdxPineRv",436,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+297,1,1,HawkRidgeNR,441,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+298,1,1,"Bluffton,Hwy75x365st",442,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+302,4,1,"Gr.Marais,Hwy44x45",446,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+304,2,1,ChesterP,448,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+308,14,3,"Grasston,PokegamaLkRd",452,Laurentian Mixed Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,8,2,0,0,0,0,0,0
+312,0,0,"Gr.Marais,Hwy61xxBethanyDr",456,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+315,2,1,GrandRapidsNE6thAve,459,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+325,13,3,FondDuLacTribalComCol,469,Laurentian Mixed Forest,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,1,0
+329,1,1,MooseMountainSNA,474,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+346,0,0,"Windom,390Stx400ave",488,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+351,1,1,HartleyNC,493,Laurentian Mixed Forest,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+352,0,0,LakeBemidjiSP,494,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+353,0,0,CollegeSt.Scholastica,495,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+354,6,1,CollegeSt.Scholastica,496,Laurentian Mixed Forest,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+355,8,3,"Duluth,Glensheen",497,Laurentian Mixed Forest,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0
+356,2,1,"Bemidji,FrohnRdxHwy12",498,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+358,5,3,BWCAFarmLake,500,Laurentian Mixed Forest,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3
+359,3,2,"Makinen,Hwy4xTownLnRd",501,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0
+361,2,2,"Burnett,CloquetRv",503,Laurentian Mixed Forest,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+364,2,1,"Bemidji,LamonRdxPinchberryRd",506,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0
+365,6,3,HappyDancingTurtle,507,Laurentian Mixed Forest,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0
+366,7,2,BoulderLakeELC,508,Laurentian Mixed Forest,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0
+367,0,0,Duluth,509,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,0,0,LittleTooMuchLakeSNA,530,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,12,2,"Grasston,PokegamaLkRd",539,Laurentian Mixed Forest,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0
+398,1,1,"Gr.Marais,Hwy44x45",540,Laurentian Mixed Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+25,4,1,PrairieEcologyBusCenter,28,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+27,13,3,LacquiParleSP,30,Prairie Parkland,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+35,6,5,AlternativeRootsFarm,38,Prairie Parkland,0,0,0,2,1,0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0
+36,0,0,ShalomHillFarm,39,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44,5,2,DLWMD-43AveN/280StN,47,Prairie Parkland,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+45,3,1,DLWMD-240st/hwy59,48,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+48,0,0,RunestoneCP,51,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+52,10,2,PrairieWoodsELC-BG,55,Prairie Parkland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0
+53,0,0,PrairieWoodsELC-PT,56,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55,5,1,BlanketFlowerPrairieSNA,59,Prairie Parkland,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58,5,1,JeralSWMA,63,Prairie Parkland,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,4,3,BirchCouleeBattlefield,64,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0
+62,3,1,HamdenSloughNWR/250th,67,Prairie Parkland,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68,1,1,BlueDevilValleySNA,75,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+79,15,3,SibleySP,85,Prairie Parkland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,12,0,0,0,0,0
+84,3,1,ChamberlainWoodsSNA,90,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0
+87,0,0,RoscoePrairieSNA,92,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89,10,4,FeltonPrairieSNA,93,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,5,0,1,0,0,0,0
+97,2,1,PrairieWoodsELC,104,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+105,3,2,WoodLakeSWMA,113,Prairie Parkland,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+106,0,0,JudsonTreeFarm,114,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+117,0,0,BeaverFallsCP,126,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,0,0,CampTownP-MackLake,127,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,2,1,SkalbekkenCP,128,Prairie Parkland,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+130,7,3,UlenStateWMA,208,Prairie Parkland,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+131,2,1,ChamberlainWoodsSNA,209,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+133,2,2,FeltonPrairieSNA,210,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+136,0,0,"Judson,TreeFarm",213,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+139,1,1,NOT RETURNED,217,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+140,16,5,"Tansem,270St.x147Ave.",218,Prairie Parkland,0,0,0,4,2,0,0,0,0,0,0,0,0,0,2,0,1,7,0,0,0,0,0
+151,9,4,"LakeBronson,CR10x210St.",229,Prairie Parkland,0,1,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+152,3,2,AlternativeRootsFarm,230,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+153,0,0,NewLondon-S SchNA,232,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+165,8,1,PrairieWoodsELC-CL,244,Prairie Parkland,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,6,1,"Lakefield,PrairieEcologyBC",251,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0
+173,5,1,"Mankato,KodiakLnx586Ln",252,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+176,2,2,LaqQuiParleSP,255,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+178,4,1,"Comfrey,320Ave.x110St",257,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0
+192,3,3,RoscoePrairieSNA,271,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+197,14,3,SibleySP,274,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,0
+212,1,1,MinneopaSP,289,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+223,11,4,"Glenwood,Selnesx270St",300,Prairie Parkland,0,4,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,2,0,0,0,0,0
+225,2,1,BrophyLakeCP,302,Prairie Parkland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,0,0,RunestoneCP,303,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+227,8,2,BigStoneLkSPBonanza,304,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+228,13,5,UpperSiouxAgencySP,305,Prairie Parkland,0,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,3,4,0,0,0,3,0
+230,12,2,JeffersPetroglyphs,308,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,8,0,0
+231,2,1,NorthMankatoyard,309,Prairie Parkland,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+233,0,0,BlanketFlowerPrairieSNA,311,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+234,0,0,BlanketFlowerPrairieSNA,312,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+236,2,1,"Callaway,hwy159x310st",314,Prairie Parkland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,2,2,"Hitterdal,120Ave.x260st",315,Prairie Parkland,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+238,14,4,nearBejouSWMA,316,Prairie Parkland,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,1,0
+239,4,2,"Gary,Hwy7x390St.",317,Prairie Parkland,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,4,2,PrairieWoodsELC-bm,320,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+242,0,0,PrairieWoodsELC-p,321,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+251,5,3,"Comfrey,320Ave.x110St",335,Prairie Parkland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0
+253,0,0,NorthMankato,336,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+284,8,5,JeffersPetroglyphs,428,Prairie Parkland,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,0,0,0
+287,6,3,AlternativeRootsFarm,431,Prairie Parkland,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0
+291,3,1,"Sleepyeye,CottonwoodRv",435,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+293,9,2,NewLondon-S SchNA,437,Prairie Parkland,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+305,2,1,Clarkfield,449,Prairie Parkland,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+306,7,3,"Sunberg,165avexHwy28",450,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,2,0
+309,11,4,"Revere,Hwy6x240st",453,Prairie Parkland,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,6,1,0,0,0,0
+311,0,0,Worthington,455,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+316,6,3,RoundLakexLongLake,460,Prairie Parkland,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+317,7,2,LakeCrystalHwy11xHwy20,461,Prairie Parkland,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+318,6,2,NorselandBSAcamp,462,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0
+324,12,5,PipestoneNM,468,Prairie Parkland,0,0,0,3,3,0,0,0,0,0,0,0,0,0,1,0,3,2,0,0,0,0,0
+326,5,4,"LakeBronson,360avexhwy26",471,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,2,0
+327,24,5,"BinghamLake,xHwy44",472,Prairie Parkland,0,0,0,8,0,0,0,0,0,1,0,0,0,0,0,0,5,6,0,0,4,0,0
+328,2,1,Nicollet,473,Prairie Parkland,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+330,10,2,CambriaWMA,475,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0
+339,3,2,NorthMankato,483,Prairie Parkland,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
+343,2,1,"St.James,131x370st",485,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0
+345,3,2,"Windom,Hwy13x490ave",487,Prairie Parkland,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+347,1,1,"Cormorant,115StxHwy145",489,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+348,1,1,BeckerSWMA,490,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+349,0,0,"Rollag,Hwy32x147ave",491,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350,1,1,FeltonPrairieSNA,492,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+362,0,0,"Windom,DesMoinesRixHwy14",504,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+363,0,0,"Waubun,T-109",505,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+368,2,1,CedarRockWMA,510,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+369,12,7,KanaranziCrkxHwy13,511,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,3,1,1,0,4,0,0
+370,2,2,SmithLake,512,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+371,2,1,BashawSWMA,513,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
+376,1,1,LambertonWMA,518,Prairie Parkland,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+377,9,3,BlanketFlowerPrairieSNA,519,Prairie Parkland,0,0,0,3,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+378,14,3,BlanketFlowerPrairieSNA,520,Prairie Parkland,0,0,0,6,0,7,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+380,11,2,LaqQuiParleSP,522,Prairie Parkland,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0
+381,1,1,"NewLondon,PointLake",523,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+383,2,2,"Correll,Hwy12xHwy36",525,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0
+384,3,2,UpperSiouxAgencySP,526,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0
+390,6,1,Sanborn,532,Prairie Parkland,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+392,1,1,"IowaLk,BSACedarPt",534,Prairie Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+395,3,1,FeltonPrairieSNA,537,Prairie Parkland,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+399,4,4,"Comfrey,320Ave.x100St",541,Prairie Parkland,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+92,0,0,SpragueCreekPeatlandSNA,96,Tallgrass Aspen Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+124,0,0,LostRiverSF,201,Tallgrass Aspen Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+382,1,1,SpragueCrkPeatlandSNA,524,Tallgrass Aspen Parkland,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+252,0,0,NorthMankato,336,Eastern Broadleaf Forest,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,3,2,NorthMankato,483,Eastern Broadleaf Forest,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0
