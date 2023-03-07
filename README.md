@@ -2,32 +2,37 @@
 Raw data and code associated with "Determining Minnesota Bee Species’ Distributions and Phenologies with the Help of Participatory Science"
 
 **Files inlcuded**
-1. Trap nest data <br>
+1. Trap nest data used for maps<br>
 "TrapNest2016.xls" to "TrapNest2019.xls" <br>
 Specimens collected from trap nests from 2016 through 2019<br>
 
 "Trap Nest Bee Distribution Data.xlsx"<br>
 Location data MN Bee Atlas trap nests, iNaturalist includes research-grade bumble bee observations through March of 2021, and bee specimens from a 2019 version of the UMN Insect Collection database.
 
-2. Bumble bee data<br>
+2. Bumble bee data used for maps<br>
 "BumbleBeelocationdataformaps.xlsx" <br>
+
 Location data MN Bee Atlas bumble bee onservation records are total abundances per species per route per year, averaged if route was run for more than one year.  iNaturalist includes research-grade bumble bee observations through November of 2022, Bumble Bee Watch includes expert-verified records through November of 2022 , and Bumble Bees of North America includes specimen-based Minnesota records from the Bumble Bees of North America database.
 
-"atlasspmatrixyear.csv" <br>
-Abundances for bumble bee species per route per year
+3. Tunnel-nesting bee analyses code<br>
+Nest fequency overall and for a subset of tunnel-nesting species
 
-"qtyperyearrouteeco.csv" <br>
+
+Land use surrounding tunnel-nesting blocks
+Redundance analysis for association of tunnel nesting bee species and  land cover
+
+
+4. Bumble bee analyses code<br>
 Total bumble bee abundance per route per year by Ecological Province
+"MNBeeAtlasBumbleBeeAbundance.R"<br>
+"qtyperyearrouteeco.csv" <br>
 
-"routelanduse.csv"<br>
 Land use surrounding bumble bee survey routes
-
-3. Bumble bee analysis code<br>
-"BeeAtlasBumbleBeeAbundance.R"<br>
-Analysis of bumble bee abundance
-
-"MNBeeAtlasCCA.R"<br>
 Canonical correspondence analysis for association of bumble bee species and land use
+"MNBeeAtlasCCA.R"<br>
+"routelanduse.csv"<br>
+"atlasspmatrixyear.csv" <br>
+
 
 
 
