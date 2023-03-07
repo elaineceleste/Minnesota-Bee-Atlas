@@ -4,10 +4,11 @@ require(dplyr)
 require(tidyr)
 require(lubridate)
 require(ggplot2)
-require(ggpubr)
 require(pscl)
-require(lme4)
-library(lmerTest)
+require(lattice)
+require (glmmTMB)
+require(car)
+require(emmeans)
 options(stringsAsFactors = FALSE)
 
 
@@ -15,13 +16,9 @@ options(stringsAsFactors = FALSE)
 
 ### Qty per date on route, limited to routes with 3 surveys per year
 
-qtyperrouteyeareco=read.csv("qtyperyearrouteeco.csv")
+qtyperrouteyeareco=read.csv("G:/My Drive/Research/R/data/MNBeeAtlas/qtyperyearrouteeco.csv")
 
-
-ggboxplot(qtyperrouteyeareco, x = "ecoprov", y = "qty", 
-          order = c("Broadleaf", "Laurentian", "Prairie"),
-          ylab = "Average bumble bee abundance per route per year", xlab = "Ecological Province")
-
+##Plot of mean bumble bee abundances across ecological provinces
 require(ggbeeswarm)
 p=ggplot(qtyperrouteyeareco, aes(ecoprov, qty), ) + # y: iq
   geom_quasirandom(alpha = 0.3) +
@@ -30,11 +27,7 @@ p=ggplot(qtyperrouteyeareco, aes(ecoprov, qty), ) + # y: iq
 p+xlab("Ecological province")+ ylab("Mean bumble bee abundance +/- SE")+theme_classic()+theme(text = element_text(size = 20))
 
 
-
-fm1=lmer(log(qty+1)~ecoprov+(1|year)+(1|routename), data=qtyperrouteyeareco)
+fm1=glmmTMB(log(qty+1)~ecoprov+(1|routename), data=qtyperrouteyeareco)
 summary(fm1)
-plot(fm1)
-fm1
-anova(fm1)
-
+Anova(fm1)
 
