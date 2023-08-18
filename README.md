@@ -33,7 +33,7 @@ Total bumble bee abundance per route per year by Ecological Province
 Land use surrounding bumble bee survey routes
 Canonical correspondence analysis for association of bumble bee species and land use
 "MNBeeAtlasCCA.R"<br>
-"routelanduse.csv"<br>
+"landuseroutefix.csv"<br>
 "atlasspmatrixyear.csv" <br>
 
 
